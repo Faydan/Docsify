@@ -1,4 +1,3 @@
-# docsify-demo
+# 熟悉业务系统架构图
 
-[如何使用docsify搭建文档类型的网站](./docs/how-to-use-docsify.md)
-
+<img src="./pic/main.png" style="zoom:50%;" />
