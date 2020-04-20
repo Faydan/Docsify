@@ -1,4 +1,3 @@
-# docsify
-# 熟悉业务系统架构图
+# 业务系统架设计
 
 <img src="./pic/main.png" style="zoom:50%;" />
