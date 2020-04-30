@@ -13,7 +13,7 @@
 
 * 技术层面
 
-  * [逻辑架构](./docs/c-1计算机网络.md)
+  * [逻辑架构](./docs/Architecture-logic.md)
   * [开发架构](./docs/c-2数据结构.md)
   * [运行架构](./docs/c-3算法.md)
   * [物理架构](./docs/c-4操作系统.md)
