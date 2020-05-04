@@ -13,23 +13,23 @@
 
 
 
-### 微服务架构图
+#### 微服务架构图
 
-![](../pic/physical01.png)
+![](../pic/pyhsical01.png)
 
 系统采用容器化部署方式，为了做持续的集成和部署，引入了jenkins，利用jenkins来构建应用的docker镜像并push到私有仓库，然后再基于应用的docker镜像来发布项目，这样减少了很多的手动操作，基本能实现持续集成和持续部署。
 
-系统部署共有17台机器
 
-![](../pic/physic01.png)
+![](../pic/pyhsical02.png)
 
-<img src="../pic/physic01.png" style="zoom:0%;" />
-
-
-<img src="../pic/physical03.png" style="zoom:0%;" />
+![](../pic/pyhsical03.png)
 
 
-<img src="../pic/physical02.png" style="zoom:0%;" />
+系统部署计划17台机器
 
+![](../pic/pyhsical04.png)
 
-<img src="../pic/physical04.png" style="zoom:0%;" />
+详细清单列表
+
+![](../pic/pyhsical05.png)
+
