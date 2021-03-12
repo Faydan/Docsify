@@ -9,7 +9,7 @@
 
 官网教程的也很详细了，地址在这里：[https://docsify.js.org/#/zh-cn/quickstart](https://docsify.js.org/#/zh-cn/quickstart) ，不过我的这篇教程比较贴合实际使用。
 
-## 一.前置条件
+## 一.前置条件1
 
 1. 确保自己电脑下载安装了 NPM 并且使用这个命令： `npm i docsify-cli -g`安装了 docsify-cli 这个工具 。
 2. 确保自己有一个 Github 账号（码云账号为非必选项，有的话更好）。
